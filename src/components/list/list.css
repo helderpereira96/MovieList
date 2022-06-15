@@ -1,0 +1,29 @@
+h4 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 0.7em;
+  font-family: fantasy;
+  color: rgb(114, 114, 114);
+  letter-spacing: 0.05em;
+}
+
+.imagem {
+  width: 12em;
+  border-radius: 0.3em;
+  margin-bottom: 0.5em;
+}
+
+.containerPoster {
+  margin-right: 1%;
+  margin-left: 1%;
+  width: 12em;
+  height: 24em;
+  float: left;
+}
+
+.paginator {
+  clear: both;
+}

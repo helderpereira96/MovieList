@@ -1,0 +1,64 @@
+img {
+  width: 17em;
+  margin: 1% 5% 1%;
+}
+
+.containerLogo {
+  width: 100%;
+  background-color: darkorchid;
+}
+
+.containerButton {
+  width: 100%;
+  background-color: indigo;
+  margin-bottom: 2em;
+}
+
+h1 {
+  padding-top: 10%;
+  font-size: 4em;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.containerButton2 h4 {
+  color: white;
+}
+
+.containerText {
+  width: 60%;
+  height: 80%;
+  margin: 0 auto;
+}
+
+.buttonGenre {
+  height: 2.5em;
+  border-radius: 0.2em;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  border: 0px;
+  font-size: 1em;
+  margin: 0.5%;
+  line-height: 1em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.containerButton2 {
+  width: 70%;
+  height: 80%;
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 3em;
+  padding-bottom: 5em;
+}
+
+input[type="checkbox"]:checked + label {
+  color: #0f0;
+}
+input {
+  display: none;
+}
